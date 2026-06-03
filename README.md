@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Nirbhay-Kumar-Developer! 👋
 
-<!--
-**Nirbhay-Kumar-Developer/Nirbhay-Kumar-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **7th-grade developer** and mobile enthusiast based in India. I specialize in building high-performance native tools, Android applications, and custom terminal automation—**engineered entirely on a mobile device using Termux.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Tech Stack & Environment
+
+### 💻 Languages & Frameworks
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++=-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🔧 Tools & Android Internals
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android SDK/NDK](https://img.shields.io/badge/Android_SDK/NDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+> **System-Level Automation:** Experienced with using Shizuku/Dhizuku via CLI rish scripts to safely manage Android permissions and bridge the gap between Termux and native Android APIs.
+
+---
+
+## 🚀 Featured Projects
+
+### 🛠️ `I have not thought a name for it.` — Native C++ Incremental Android Build System
+An ultra-optimized, native C++ Android Build System designed specifically for the Termux environment to build Android APKs. 
+* **Key Achievement:** Reached highly optimized incremental build speeds (down to **~5.79-10 seconds**) by refining build trees and utilizing lightweight C/C++ architectures.
+* *Tech used: C++, Shell, Java, Android Build Tools*
+
+### 🎓 All-in-One Educational Android App "Heurily" 
+A robust, feature-rich study suite designed for comprehensive learning and student productivity.
+* **Features:** Multi-subject formula database, automated custom test generator, interactive math quiz mode, multi-profile support, digital writing board, and a built-in note-taker and calculator.
+* *Tech used: Java, Android SDK*
+
+### 🖥️ TOS (Termux Operating Setup)
+A custom, security-first terminal environment configured directly inside Termux, designed to maximize productivity on a mobile interface.
+---
+
+## 🧠 Core Interests & Focus
+* **Advanced Mathematics:** Passionate about Number Theory, Geometry proofs (like Power of a Point), and Mathematical Induction. 
+* **Low-Level Android Mechanics:** Tweaking, optimizing, and building lightweight binaries that bypass traditional mobile IDE resource overhead.
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
+
+---
+
+## 📱 My Mobile Dev Setup
+* **Terminal:** Termux (highly customized shell environments)
+* **Editors:** `micro` / `vim` / `nano` for writing efficient code on the go
+* **Version Control:** Git managed entirely via SSH keys in the terminal
+
+*“Constraints drive innovation. Building native tools on a phone proves you don't need a heavy desktop setup to write great software.”* 🚀
