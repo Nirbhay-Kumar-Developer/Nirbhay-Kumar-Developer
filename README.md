@@ -53,7 +53,6 @@ A custom, security-first terminal environment configured directly inside Termux,
 
 ## 📱 My Mobile Dev Setup
 * **Terminal:** Termux (highly customized shell environments)
-* **Editors:** `micro` / `vim` / `nano` for writing efficient code on the go
-* **Version Control:** Git managed entirely via SSH keys in the terminal
+* **Editors:** `nano`/ Code Studio (Android app) for writing efficient code on the go
 
 *“Constraints drive innovation. Building native tools on a phone proves you don't need a heavy desktop setup to write great software.”* 🚀
