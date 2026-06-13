@@ -32,7 +32,7 @@ A robust, feature-rich study suite designed for comprehensive learning and stude
 * **Features:** Multi-subject formula database, automated custom test generator, interactive math quiz mode, multi-profile support, digital writing board, and a built-in note-taker and calculator.
 * *Tech used: Java, Android SDK*
 
-### 🖥️ TOS (Termux Operating Setup)
+### 🖥️ TOS (Terminal Operating Setup)
 A custom, security-first terminal environment configured directly inside Termux, designed to maximize productivity on a mobile interface.
 ---
 
@@ -45,8 +45,8 @@ A custom, security-first terminal environment configured directly inside Termux,
 ## 📊 My GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nirbhay-Kumar-Developer&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay-Kumar-Developer&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
