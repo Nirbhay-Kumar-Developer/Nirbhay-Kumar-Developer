@@ -40,6 +40,7 @@ A robust, feature-rich study suite designed for comprehensive learning and stude
 * *Tech used: Java, Android SDK*
 
 ### TOS (Terminal Operating Setup)
+
 A custom security first terminal environment with many shortcut aliases and functions and a project manager integrated with build systems for different kinds of projects. (under development)
 ---
 
