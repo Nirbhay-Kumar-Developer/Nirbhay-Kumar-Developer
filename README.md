@@ -54,9 +54,10 @@ A custom security first terminal environment with many shortcut aliases and func
 ## My GitHub Stats
 
 <p align="left">
-<img src="https://nirbhay-kumar-developer-profile.vercel.app/api?username=Nirbhay-Kumar-Developer&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-<img src="https://nirbhay-kumar-developer-profile.vercel.app/api/top-langs/?username=Nirbhay-Kumar-Developer&layout=compact&theme=radical" alt="Top Languages" height="150" />
+<img src="https://nirbhay-kumar-developer-profile.vercel.app/api?username=Nirbhay-Kumar-Developer&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="150" />
+<img src="https://nirbhay-kumar-developer-profile.vercel.app/api/top-langs/?username=Nirbhay-Kumar-Developer&layout=compact&theme=radical&count_private=true&exclude_repo=nirbhay-kumar-developer-profile" alt="Top Languages" height="150" />
 </p>
+
 
 ---
 
