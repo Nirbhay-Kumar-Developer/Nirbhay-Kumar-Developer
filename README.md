@@ -34,7 +34,7 @@ An ultra-optimized, native C++ Android Build System designed specifically for th
 ### All-in-One Educational Android App "Heurily" 
 A robust, feature-rich study suite designed for comprehensive learning and student productivity.
 
-* **Repository:**<a href="https://github.com/Nirbhay-Kumar-Developer/Heurily">https://github.com/Nirbhay-Kumar-Developer/Heurily</a>
+* **Repository:**<a href="https://github.com/Nirbhay-Kumar-Developer/Heurily-Releases">https://github.com/Nirbhay-Kumar-Developer/Heurily</a>
 
 * **Features:** Multi-subject formula database, automated custom test generator, interactive math quiz mode, multi-profile support, digital writing board, and a built-in note-taker and calculator.
 * *Tech used: Java, Android SDK*
