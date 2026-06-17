@@ -1,6 +1,6 @@
 # Hi there, I'm Nirbhay-Kumar-Developer! 👋
 
-I am a **7th-grade developer** and mobile enthusiast based in India. I specialize in building high-performance native tools, Android applications, and custom terminal automation—**engineered entirely on a mobile device using Termux.**
+I am a **7th-grade developer** and mobile enthusiast based in Nawada region of Bihar,India. I specialize in building high-performance native tools, Android applications, and custom terminal automation—**engineered entirely on a mobile device using Termux.**
 
 ---
 
