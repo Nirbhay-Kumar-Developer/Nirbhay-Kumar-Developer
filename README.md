@@ -35,7 +35,7 @@ An ultra-optimized, native C++ Android Build System designed specifically for th
 ### All-in-One Educational Android App "Heurily" 
 A robust, feature-rich study suite designed for comprehensive learning and student productivity.
 
-* **Repository:** <a href="https://github.com/Nirbhay-Kumar-Developer/Heurily">https://github.com/Nirbhay-Kumar-Developer/Heurily</a>
+* **Repository:** <a href="https://github.com/Nirbhay-Kumar-Developer/Heurily-Releases">https://github.com/Nirbhay-Kumar-Developer/Heurily</a>
 
 * **Features:** Multi-subject formula database, automated custom test generator, interactive math quiz mode, multi-profile support, digital writing board, and a built-in note-taker and calculator.
 * **Tech used:** Java, Android SDK
@@ -53,7 +53,7 @@ A robust, feature-rich study suite designed for comprehensive learning and stude
 
 <p align="left">
 <img src="https://nirbhay-kumar-developer-profile.vercel.app/api?username=Nirbhay-Kumar-Developer&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="150" />
-<img src="https://nirbhay-kumar-developer-profile.vercel.app/api/top-langs/?username=Nirbhay-Kumar-Developer&layout=compact&theme=radical&count_private=true" alt="Top Languages" height="150" />
+<img src="https://nirbhay-kumar-developer-profile.vercel.app/api/top-langs/?username=Nirbhay-Kumar-Developer&layout=compact&theme=radical&count_private=true&exclude_repo=nirbhay-kumar-developer-profile" alt="Top Languages" height="150" />
 </p>
 
 ---
